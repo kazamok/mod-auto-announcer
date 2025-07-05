@@ -1,0 +1,13 @@
+#----------------------------------------------------------
+# Auto Announcer Module Settings
+#----------------------------------------------------------
+#
+# Enable Auto Announcer Module (0 = disabled, 1 = enabled)
+AutoAnnouncer.Enable = 1
+
+# Interval between announcements in seconds
+AutoAnnouncer.IntervalSeconds = 30
+
+# List of messages to announce (semicolon-separated)
+# Use |cffXXXXXX|r for colors. Example: |cff00ff00|r환영합니다!|r
+AutoAnnouncer.Messages = "|cffDA70D6|r서버에 오신 것을 환영합니다!|r";"|cffDA70D6|r불법 프로그램 사용은 제재 대상입니다.|r";"|cffDA70D6|r서로 존중하는 언어를 사용합시다.|r"
