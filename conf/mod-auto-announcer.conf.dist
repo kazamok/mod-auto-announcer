@@ -10,4 +10,4 @@ AutoAnnouncer.IntervalSeconds = 60
 
 # List of messages to announce (semicolon-separated)
 # Use |cffXXXXXX|r for colors. Example: |cff00ff00|r환영합니다!|r
-AutoAnnouncer.Messages = |cffFF6347서버에 오신 것을 환영합니다!|r;|cffFF6347불법 프로그램 사용은 제재 대상입니다.|r;|cffFF6347서로 존중하는 언어를 사용합시다.|r;|cffFF6347계정 정보는 아무에게도 알려주지마세요.|r;|cffFF6347일정 시간마다 골드 보상과 전역 버프가 발동됩니다.|r
+AutoAnnouncer.Messages = |cffFF6347서버에 오신 것을 환영합니다! 즐거운시간 되십시요.|r;|cffFF6347불법 프로그램 사용은 제재 대상입니다.|r;|cffFF6347서로 존중하는 언어를 사용합시다.|r;|cffFF6347계정 정보는 아무에게도 알려주지마세요.|r;|cffFF6347일정 시간마다 골드 보상과 전역 버프가 발동됩니다.|r
