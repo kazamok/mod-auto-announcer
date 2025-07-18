@@ -6,7 +6,7 @@
 AutoAnnouncer.Enable = 1
 
 # Interval between announcements in seconds
-AutoAnnouncer.IntervalSeconds = 60
+AutoAnnouncer.IntervalSeconds = 120
 
 # List of messages to announce (semicolon-separated)
 # Use |cffXXXXXX|r for colors. Example: |cff00ff00|r환영합니다!|r
