@@ -1,3 +1,7 @@
+
+/*
+mod-auto-announcer.cpp */
+
 #include "ScriptMgr.h"
 #include "World.h"
 #include "Player.h"
