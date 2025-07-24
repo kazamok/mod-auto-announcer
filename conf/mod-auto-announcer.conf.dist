@@ -17,7 +17,7 @@
 #
 #    자동 공지 - 모듈 활성화 및 간격 설정
 #        Description: 자동으로 서버에 공지를 띄우는 모듈의 활성화 및 공지 간격 설정입니다.
-#        Author:      AzerothCore Community
+#        Author:      Kazamok, AzerothCore Community
 #
 ###################################################################################################
 
@@ -40,7 +40,7 @@ AutoAnnouncer.IntervalSeconds = 120
 #
 #    자동 공지 - 메시지 목록 설정
 #        Description: 공지할 메시지 목록을 세미콜론(;)으로 구분하여 입력합니다.
-#        Author:      AzerothCore Community
+#        Author:      Kazamok, AzerothCore Community
 #
 ###################################################################################################
 
