@@ -47,7 +47,7 @@ static std::vector<std::string> SplitString(const std::string& s, char delimiter
 // 모듈 전용 설정 파일을 로드하고 파싱하는 함수
 void LoadModuleSpecificConfig_AutoAnnouncer()
 {
-    std::string configFilePath = "./configs/modules/mod-auto-announcer.conf.dist";
+    std::string configFilePath = "./configs/modules/mod-auto-announcer.conf";
 
     std::ifstream configFile;
 
@@ -171,3 +171,4 @@ void Addmod_auto_announcerScripts()
 {
     new mod_auto_announcer_world();
 }
+
