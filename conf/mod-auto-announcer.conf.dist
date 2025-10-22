@@ -49,7 +49,8 @@ AutoAnnouncer.IntervalSeconds = 180
 #        Description: |cffXXXXXX|r 형식을 사용하여 메시지에 색상을 적용할 수 있습니다.
 #        Example:     |cff00ff00|r환영합니다!|r
 #
-AutoAnnouncer.Messages = |cffFFFFFF[시스템] 환영합니다! 즐거운 시간 되십시요.|r;|cffFFFFFF[시스템] 게임런처로 접속해야만 게임을 이용할 수 있습니다.|r;|cffFFFFFF[시스템] 홍보 보상 신청은 홈페이지에서 하세요.|r;|cffFFFFFF[시스템] 계정 정보는 아무에게도 알려주지 마세요.|r;|cffFFFFFF[시스템] 일정 시간마다 월드 전역에 버프가 발동됩니다.|r;|cffFFFFFF[시스템] 홍보 보상은 일주일에 한 번 우편으로 받을 수 있습니다.|r;|cffFFFFFF[시스템] 계정으로 하루에 한 번 골드 보상을 받습니다.|r
+AutoAnnouncer.Messages = |cffFFFFFF[시스템] 환영합니다! 즐거운 시간 되십시요.|r;|cffFFFFFF[시스템] 게임런처로 접속해야만 게임을 이용할 수 있습니다.|r;|cffFFFFFF[시스템] 홍보 보상 신청은 홈페이지에서 하세요.|r;|cffFFFFFF[시스템] 계정 정보는 아무에게도 알려주지 마세요.|r;|cffFFFFFF[시스템] 일정 시간마다 월드 전역에 버프가 발동됩니다.|r;|cffFFFFFF[시스템] 홍보는 일주일에 한 번  보상은 우편으로 받을 수 있습니다.|r;|cffFFFFFF[시스템] 계정으로 하루에 한 번 골드 보상을 받습니다.|r
+
 
 
 
