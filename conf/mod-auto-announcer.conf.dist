@@ -31,16 +31,52 @@ AutoAnnouncer.Enable = 1
 
 #
 #    AutoAnnouncer.IntervalSeconds
-#        Description: 공지 사이의 간격을 초 단위로 설정합니다.
+#        Description: 설정 파일 기반 공지 사이의 간격을 초 단위로 설정합니다.
 #        Default:     120(2분)
 #
 AutoAnnouncer.IntervalSeconds = 120
 
 ###################################################################################################
 #
-#    자동 공지 - 메시지 목록 설정
-#        Description: 공지할 메시지 목록을 세미콜론(;)으로 구분하여 입력합니다.
-#        Author:      Kazamok, AzerothCore Community
+#    자동 공지 (데이터베이스) - DB 연동 공지 설정
+#        Description: 데이터베이스에서 읽어온 공지를 독립적으로 설정합니다.
+#
+###################################################################################################
+
+#
+#    AutoAnnouncer.DB.Enable
+#        Description: 데이터베이스에서 공지를 가져오는 기능을 활성화합니다.
+#        Default:     1 - (활성화)
+#                     0 - (비활성화)
+#
+AutoAnnouncer.DB.Enable = 1
+
+#
+#    AutoAnnouncer.DB.UpdateInterval
+#        Description: 데이터베이스에서 새 공지를 확인하는 주기를 초 단위로 설정합니다.
+#        Default:     300 (5분)
+#
+AutoAnnouncer.DB.UpdateInterval = 300
+
+#
+#    AutoAnnouncer.DB.IntervalSeconds
+#        Description: 데이터베이스 기반 공지 사이의 간격을 초 단위로 설정합니다.
+#        Default:     60 (1분)
+#
+AutoAnnouncer.DB.IntervalSeconds = 60
+
+#
+#    AutoAnnouncer.DB.Color
+#        Description: 데이터베이스 공지 메시지에 적용할 색상 코드를 설정합니다.
+#        Example:     |cffFF0000|r
+#        Default:     |cffFFFF00|r
+#
+AutoAnnouncer.DB.Color = |cffFFFF00|r
+
+###################################################################################################
+#
+#    자동 공지 (설정 파일) - 메시지 목록 설정
+#        Description: 설정 파일에서 공지할 메시지 목록을 세미콜론(;)으로 구분하여 입력합니다.
 #
 ###################################################################################################
 
